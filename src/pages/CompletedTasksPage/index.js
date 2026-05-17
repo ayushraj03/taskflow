@@ -1,0 +1,1 @@
+export { CompletedTasksPage } from './CompletedTasksPage';
